@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Å£¶Ùµü´ú·¨£¬º¯Êýy=x^3+nÇó¸ù
+//ç‰›é¡¿è¿­ä»£æ³•ï¼Œå‡½æ•°y=x^3+næ±‚æ ¹
 double cubic (double num) {
     int t = num;
     for (int i = 0; i < 100; ++i) {
